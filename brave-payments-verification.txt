@@ -1,0 +1,4 @@
+This is a Brave Payments publisher verification file.
+
+Domain: travi.github.io
+Token: 8b95a901d64df0af8eb0374bf1e1bcba78d0bef96155f78e8fc6a7cc7338ace3
